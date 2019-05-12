@@ -3,7 +3,7 @@
 #### 说明
 * 需安装浏览器插件 mathjax 来渲染数学公式
 * [mathjax 插件](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
-* [pdf 笔记](./pdfNotes/firstDay.md)
+* [pdf 笔记](/firstDay.pdf)
 
 ### 统计学分类
 ------
