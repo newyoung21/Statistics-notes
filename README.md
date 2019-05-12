@@ -1,8 +1,8 @@
 ## 统计学笔记
 
-#### 
+#### 说明
 * 需安装浏览器插件 mathjax 来渲染数学公式
-[mathjax](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima){:target="_blank"}
+* [mathjax 插件](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
 
 ### 统计学分类
 ------
