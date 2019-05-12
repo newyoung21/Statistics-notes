@@ -1,5 +1,9 @@
 ## 统计学笔记
 
+#### 
+* 需安装浏览器插件 mathjax 来渲染数学公式
+[mathjax](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima){:target="_blank"}
+
 ### 统计学分类
 ------
 *  描述统计
@@ -10,14 +14,14 @@
 * 均值： 求平均值
 * 中位数： 有序序列的中间值（个数为偶数时求中间两位平均字值）
 * 众数： 次数出现最多元素为众数
-* μ：总体均值，（ μ = $\frac{\sum_{i=1}^Nx_i}{N}$）
-* $\overline{x}$:  样本均值 （$\overline{x}$ = $\frac{\sum_{i=1}^nx_i}{n}$ ）
-* $\sigma^2$：总体方差 （$\sigma^2$ =  $\frac{\sum_{i=1}^N(x_i-μ)^2}{N}$）
+* 总体均值： μ = $\frac{\sum_{i=1}^Nx_i}{N}$
+* 样本均值： $\overline{x}$ = $\frac{\sum_{i=1}^nx_i}{n}$
+* 总体方差： $\sigma^2$ =  $\frac{\sum_{i=1}^N(x_i-μ)^2}{N}$
 	* 简化公式  $\sigma^2$ =  $\frac{\sum_{i=1}^Nx_i^2}{N} - μ^2$
-* $S^2$：样本方差 （$S^2$ =  $\frac{\sum_{i=1}^n(x_i-\overline{x})^2}{n}$）
+* 样本方差： $S^2$ =  $\frac{\sum_{i=1}^n(x_i-\overline{x})^2}{n}$
 	- 样本方差是来估计总体方差，由此有无偏样总体方差
 	- 无偏样总体方差， $S^2$ =  $\frac{\sum_{i=1}^n(x_i-\overline{x})^2}{n-1}$
-* $\sigma$：总体标准差  $\sigma$ = $\sqrt{\sigma^2}$
+* 总体标准差：  $\sigma$ = $\sqrt{\sigma^2}$
 	-  样本标准差  $S$ = $\sqrt{S^2}$
 * 随机变量： 跟传统变量不是一个概念（连续随机变量，离散随机变量）
 	*  随机过程映射到数值的函数
