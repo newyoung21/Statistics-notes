@@ -3,10 +3,11 @@
 #### 说明
 * 需安装浏览器插件 mathjax 来渲染数学公式
 * [mathjax 插件](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
+* [pdf 笔记](./pdfNotes/firstDay.md)
 
 ### 统计学分类
 ------
-*  描述统计
+* 描述统计
 * 推论统计
 
 ### 基本概念
